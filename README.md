@@ -1,6 +1,6 @@
 # CSV-Handler-app
 
-# Iranian Stock Market Data Merger
+# Iran Stock Market Data Merger
 
 This project contains a Python script that processes and merges various text files containing Iran stock market data. Due to restrictions on publicly available market data in Iran, the script reorganizes raw data into a structured CSV file that is easier to analyze.
 
